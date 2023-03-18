@@ -8,11 +8,12 @@
 }
 
 body{
-    background-image:url('https://cdn.dribbble.com/users/2834752/screenshots/5600089/media/6665f7fa249685ecb99c25937bfb8e26.gif');
-}
+    background-image:url('https://cdn.svgator.com/images/2022/06/SVG-background-animation.gif');
+   
+} 
 
 ::selection{
-    color: #fff;
+    color: #ffffff54;
     background: #007bff;
 }
 
